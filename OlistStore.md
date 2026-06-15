@@ -4,11 +4,11 @@
 Olist Store Analysis is an e-commerce data analytics project that examines sales, customers, products, payments, reviews, and delivery performance. Using SQL and visualization tools, it identifies business trends, customer behavior, and key insights to support data-driven decision-making and improve growth.
 
 # 🔧 Tools & Technologies
-Excel
-Power BI
-Tableau
-MySQL
-Data Cleaning & Visualization
+- Excel
+- Power BI
+- Tableau
+- MySQL
+- Data Cleaning & Visualization
 
 # 📂 Project Files
 All files related to project are stored in Google Drive Download/View Project Files: https://drive.google.com/drive/folders/1cTfbYjdEnhbazLjBgV5xNR_MqIvha3kL?usp=sharing
